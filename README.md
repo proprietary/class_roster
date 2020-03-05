@@ -4,13 +4,13 @@ Programming exercise (C++)
 
 ## Building and running
 
-### CMake (>=3.13) and GNU Make
+### CMake (>=3.13) and GNU Make or Visual Studio 2019
 
 ```bash
 mkdir build
 cd build
 cmake ..
-make
+cmake --build .
 ./class_roster
 ```
 
