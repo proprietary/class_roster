@@ -1,0 +1,2 @@
+Checks: 'clang-diagnostic-*,clang-analyzer-*,-clang-analyzer-alpha*,cppcoreguidelines-*,cppcoreguidelines-pro-lifetime-*,performance-*,readability-*'
+WarningsAsErrors: '*'
