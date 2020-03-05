@@ -1,4 +1,4 @@
-.clangd
 build
+.clangd
 compile_commands.json
 cmake/local.cmake

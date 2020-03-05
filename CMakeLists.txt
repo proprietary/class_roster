@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15)
+cmake_minimum_required(VERSION 3.13)
 
 project(class_roster VERSION 1.0.0 LANGUAGES CXX)
 

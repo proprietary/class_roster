@@ -18,6 +18,8 @@ std::string getDegreeTypeString(Degree degree)
 		return "Security";
 	case Degree::SOFTWARE:
 		return "Software";
+	default:
+		throw std::runtime_error("Illegal value for enumerated type");
 	}
 }
 
