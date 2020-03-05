@@ -4,6 +4,10 @@ Programming exercise (C++)
 
 ## Building and running
 
+On Windows with Visual Studio 2019, extract this ZIP and open the directory in Visual Studio. Then "Build All" (F7) and run "class_roster.exe" in the Debug directory.
+
+If that doesn't work, or for Unix-like, generate the build with CMake:
+
 ### CMake (>=3.13) and GNU Make or Visual Studio 2019
 
 ```bash
